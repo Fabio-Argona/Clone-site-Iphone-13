@@ -30,3 +30,5 @@ O site foi projetado para ser responsivo a diferentes tamanhos de tela. As consu
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou correções de bugs, abra uma issue ou envie um pull request. 
 
 ![image](https://github.com/Fabio-Argona/Clone-site-Iphone-13/assets/128233610/765eae00-a1a8-4222-8c11-e7caf4f0644d)
+![image](https://github.com/Fabio-Argona/Clone-site-Iphone-13/assets/128233610/342ad7e7-d831-470c-93ae-6f68cb62f8a6)
+
